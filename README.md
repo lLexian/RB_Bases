@@ -6,7 +6,7 @@ This is a collection of base designs for the 'Raidable Bases' plugin from nivex.
 
 Q: How do i use these bases?
 
-A: These bases are .json files used with the 'Raidable Bases' plugin for a Oxide modded Rust server. Instruction and Download for 'Raidable Bases' can be found here: https://umod.org/plugins/raidable-bases
+A: These bases are .json files used with the 'Raidable Bases' plugin for a Oxide modded Rust server. Download and Intructions for 'Raidable Bases' can be found here: https://umod.org/plugins/raidable-bases
 
 Q: Who are these bases designed for?
 
@@ -18,5 +18,5 @@ A: The reason why there are 5 different variants of the 2x1 is because not every
 
 Q: Some walls are backwards and items are placed in incorrect locations.
 
-A: The majority of these bases have been build in Fortify. Fortify isn't perfect and i'm still learning the quirks and bugs. For example, something i didn't realise until after designing a couple bases is that the Research Table is placed much further back in-game compared to in Fortify, so if some cases the Research Table is sticking out of the wall. As for backwards walls, I typically create bases in bulk and test 1 or 2 in game. As of writing this i haven't done testing on each base, so i may have missed a backwards wall or an item incorrect
+A: The majority of these bases have been build in Fortify. Fortify isn't perfect and i'm still learning the quirks and bugs. For example, something i didn't realise until after designing a couple bases is that the Research Table is placed much further back in-game compared to in Fortify, so in some cases the Research Table is sticking out of the wall. As for backwards walls, I typically create bases in bulk and test 1 or 2 in game. As of writing this i haven't done testing on each base, so there may be some flaws i havn't fixed yet.
  
